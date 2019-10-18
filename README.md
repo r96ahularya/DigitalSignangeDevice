@@ -16,7 +16,10 @@ Sample Jsons can be taken from constants.py
 1. Python3
 2. Pip3
 3. requests library (```sudo pip3 install requests```)
-4. Domain set in constants.py under "DOMAIN"
+4. imageio library (```sudo pip3 install imageio```)
+5. Pillow library (```sudo pip3 install Pillow```)
+6. moviepy library (```sudo pip3 install moviepy```)
+7. Domain set in constants.py under "DOMAIN"
 
 ## How to run
 Launch 2 terminal instances
